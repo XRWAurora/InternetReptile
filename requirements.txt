@@ -1,0 +1,5 @@
+jieba==0.42.1
+pyecharts==1.9.0
+PyMySQL==1.0.2
+requests==2.26.0
+lxml==4.6.3
